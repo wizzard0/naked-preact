@@ -1,0 +1,21 @@
+{
+  "name": "naked-preact",
+  "version": "0.2022.1",
+  "x-meta": "this file exists only to please IDEs, it's not needed in any way",
+  "description": "Naked Preact: use react+hooks with modern JS without compilers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizzard0/naked-preact.git"
+  },
+  "keywords": ["preact","react","hooks"],
+  "author": "oleksandr@tvori.info",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizzard0/naked-preact/issues"
+  },
+  "homepage": "https://github.com/wizzard0/naked-preact#readme"
+}
