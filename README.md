@@ -13,10 +13,15 @@ Various http servers you can use:
 - `python3 -m http.server 7421` 
 - `npx http-server -c-1 -p7421`
 - `dotnet tool install --global dotnet-serve; dotnet serve -p7421`
+- view on [GitHub Pages]
 
-...then open http://localhost:7421/ in your browser and play with `app.js`/`index.html` etc.  
+...then open http://localhost:7421/ in your browser and play with `app.js`/`index.html` etc.
+
 Oh, and don't forget [Preact Devtools]. They work out of the box.
+
 
 [naked preact]: https://github.com/wizzard0/naked-preact
 [preact.js]: https://preactjs.com/
 [Preact Devtools]: https://preactjs.github.io/preact-devtools/
+[GitHub Pages]: https://wizzard0.github.io/naked-preact/
+
