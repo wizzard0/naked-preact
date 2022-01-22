@@ -16,7 +16,7 @@ export let App = Tag(({}) => {
     "The rest of this file is self-documenting. Preact devtools work as expected, too.",
 
     // tag with props as optional first parameter
-    details({open: true, style: {background: '#dee'}},
+    details({open: false, style: {background: '#dee'}},
       summary("if you don't have props you can still always stick to the call-like syntax"),
       Line(), // equivalent to Line`` or <Line /> in JSX
       ul(items.map(item => li(item))),
